@@ -128,3 +128,7 @@ Le résultat est mis en cache 30 jours dans `data/cache/`. Si le téléchargemen
 - **Banques** : un bilan bancaire est détecté et signalé, mais les ratios sont ceux des entreprises.
 - **Sécurité** : avant une mise en production, ajoutez authentification et limitation de débit.
 - **Évolutions** : référentiel tunisien (BVMT, BCT), historique des analyses, export PDF du rapport.
+
+## Auteure
+
+**Molka Brinsi**, étudiante en Master Data Science for Business (ISG Tunis) · [GitHub](https://github.com/brinsimolka)
