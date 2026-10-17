@@ -1,0 +1,12 @@
+﻿# Cles et configuration locale
+.env
+.env.local
+# Python
+venv/
+__pycache__/
+# Node / Next.js
+node_modules/
+.next/
+next-env.d.ts
+# Cache du referentiel
+data/cache/
