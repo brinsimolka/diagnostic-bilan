@@ -41,7 +41,7 @@ section.step{background:var(--paper);border:1px solid var(--line);border-radius:
 .step-head p{margin:.2rem 0 0;color:var(--muted);font-size:.95rem}
 .grid2{display:grid;grid-template-columns:1.4fr 1fr;gap:1.25rem}
 @media (max-width:760px){.grid2{grid-template-columns:1fr}}
-.drop{border:2px dashed var(--line);border-radius:12px;padding:1.75rem 1rem;text-align:center;cursor:pointer;transition:border-color .15s,background .15s}
+.drop{display:block;border:2px dashed var(--line);border-radius:12px;padding:1.75rem 1rem;text-align:center;cursor:pointer;transition:border-color .15s,background .15s}
 .drop:hover,.drop.over{border-color:var(--accent);background:color-mix(in srgb,var(--accent) 7%,transparent)}
 .drop strong{display:block;font:700 1.05rem var(--font-head),Manrope,sans-serif;margin-bottom:.25rem}
 .drop span{color:var(--muted);font-size:.92rem}
